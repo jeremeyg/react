@@ -1,7 +1,7 @@
 // import React from 'react';
 
-const Jokes = () => {
+const Grid = () => {
 	return <div></div>;
 };
 
-export default Jokes;
+export default Grid;
